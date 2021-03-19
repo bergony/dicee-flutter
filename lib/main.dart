@@ -34,7 +34,7 @@ class DicePage extends StatelessWidget {
           Expanded(
             child: FlatButton(
               onPressed: () {
-                print('Rights button go pressed');
+                print('Right button go pressed');
               },
               child: Image.asset('images/dice$rightDiceNumber.png'),
             ),
